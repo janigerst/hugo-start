@@ -33,7 +33,7 @@ To add new posts, simply add a file in the content/post directory that follows t
     </item>
     
     <item>
-      <title>About</title>
+      <title>O nás</title>
       <link>http://jan-martinek.github.io/hugo-start/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
