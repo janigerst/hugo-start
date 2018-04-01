@@ -1,4 +1,4 @@
 ---
-title: Novinky
+title: "Novinky"
 ---
 
