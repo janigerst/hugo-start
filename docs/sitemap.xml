@@ -13,12 +13,6 @@
   </url>
   
   <url>
-    <loc>https://happyradka.github.io/hugo-start/tags/beatles/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://happyradka.github.io/hugo-start/categories/</loc>
     <priority>0</priority>
   </url>
@@ -65,6 +59,12 @@
   <url>
     <loc>https://happyradka.github.io/hugo-start/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://happyradka.github.io/hugo-start/tags/video/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

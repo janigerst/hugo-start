@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Beatles</title>
-      <link>https://happyradka.github.io/hugo-start/tags/beatles/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://happyradka.github.io/hugo-start/tags/beatles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Data</title>
       <link>https://happyradka.github.io/hugo-start/tags/data/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
@@ -53,6 +44,15 @@
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://happyradka.github.io/hugo-start/tags/start/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>https://happyradka.github.io/hugo-start/tags/video/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://happyradka.github.io/hugo-start/tags/video/</guid>
       <description></description>
     </item>
     
