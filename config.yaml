@@ -1,14 +1,14 @@
 title: Mandela efekt
-baseURL: http://jan-martinek.github.io/hugo-start/
+baseURL: https://happyradka.github.io/hugo-start/
 languageCode: cs-cz
 publishDir: docs
 
 menu:
   main:
-    - name: Homepage
+    - name: "Domovská strana"
       url: /
       weight: 10
-    - name: Archive
+    - name: "Novinky"
       identifier: post
       url: /post/
       weight: 20
