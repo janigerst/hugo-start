@@ -1,4 +1,4 @@
-title: Mandela efekt
+﻿title: Mandela efekt
 baseURL: https://happyradka.github.io/hugo-start/
 languageCode: cs-cz
 publishDir: docs
@@ -16,4 +16,5 @@ menu:
 params:
   description: Description of my new site.
   authors: Authors
-
+  
+googleAnalytics: UA-117927905-1
