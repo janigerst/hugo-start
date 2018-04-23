@@ -5,6 +5,11 @@
 }
 
 header {
+  float: left;
+  color: gray;
+  background-color: black;
+  text-align: center;
+  text-decoration: bold;
   padding: 30px 0 0;
   border-bottom: solid;
 }
@@ -16,6 +21,7 @@ footer {
 
 .page {
   float: right;
+  background-color: white;
   width: 70%;
   border-left: solid;
   padding-left: 1.5em;
