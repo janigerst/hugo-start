@@ -59,3 +59,7 @@ nav .active {
   font-weight: bold;
   background-color: black;
 }
+
+body {
+    color: white;
+}
