@@ -6,7 +6,7 @@
 
 header {
   float: left;
-  color: gray;
+  color: white;
   background-color: black;
   text-align: center;
   text-decoration: bold;
@@ -21,7 +21,7 @@ footer {
 
 .page {
   float: right;
-  background-color: white;
+  background-color: black;
   width: 70%;
   border-left: solid;
   padding-left: 1.5em;
