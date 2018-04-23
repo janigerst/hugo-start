@@ -31,11 +31,10 @@ footer {
   min-height: 400px;
 }
 
-.custom {
-  font-family: Courier;
-  color: white;
-  font-size:20px;
+.form-control {
+  color: white !important;
 }
+
 
 aside {
   float: left;
