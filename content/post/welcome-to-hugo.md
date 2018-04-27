@@ -1,6 +1,6 @@
 ---
 title:  "Co je mandela efekt"
-date:   2018-03-13
+date:   2018-04-127
 tags: 
     - about
     - mandela effect

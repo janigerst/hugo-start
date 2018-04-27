@@ -6,7 +6,6 @@
     <description>Recent content in About on Mandela efekt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Tue, 13 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://happyradka.github.io/hugo-start/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +13,7 @@
     <item>
       <title>Co je mandela efekt</title>
       <link>https://happyradka.github.io/hugo-start/post/welcome-to-hugo/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://happyradka.github.io/hugo-start/post/welcome-to-hugo/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Mandela efekt&lt;/strong&gt;&lt;/p&gt;
