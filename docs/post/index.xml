@@ -23,13 +23,14 @@
     </item>
     
     <item>
-      <title>Welcome to Hugo!</title>
+      <title>Co je mandela efekt</title>
       <link>https://happyradka.github.io/hugo-start/post/welcome-to-hugo/</link>
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://happyradka.github.io/hugo-start/post/welcome-to-hugo/</guid>
-      <description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated.
-To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
+      <description>&lt;p&gt;#Mandela efekt&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
