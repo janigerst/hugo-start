@@ -12,4 +12,4 @@ tags:
 
 text text text text
 
-![Mandela efekt](/image.png)
+![Mandela efekt](https://cdn-images-1.medium.com/max/1050/1*auzF3MY57ThnwWKJM9rrOg.jpeg)
