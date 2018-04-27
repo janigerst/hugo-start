@@ -6,10 +6,23 @@
     <description>Recent content in Tým on Mandela efekt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://happyradka.github.io/hugo-start/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Co je mandela efekt</title>
+      <link>https://happyradka.github.io/hugo-start/post/co-je-mandela-efekt/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://happyradka.github.io/hugo-start/post/co-je-mandela-efekt/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mandela efekt&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Co je to vlastně Mandela efekt?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Video</title>
@@ -29,17 +42,6 @@
       
       <guid>https://happyradka.github.io/hugo-start/post/another-post/</guid>
       <description>&lt;p&gt;Podívejte se na video &lt;em&gt;The Mandela Effect: A Critical Analysis&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Co je mandela efekt</title>
-      <link>https://happyradka.github.io/hugo-start/post/co-je-mandela-efekt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://happyradka.github.io/hugo-start/post/co-je-mandela-efekt/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Mandela efekt&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
