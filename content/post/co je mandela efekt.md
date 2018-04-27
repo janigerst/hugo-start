@@ -12,4 +12,4 @@ tags:
 
 text text text text
 
-<img class="special-img-class" src="/images.jpg" /> 
+![Mandela efekt](/image.png)
