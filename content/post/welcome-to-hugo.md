@@ -6,10 +6,10 @@ tags:
     - mandela effect
     - hugo
 ---
-#Mandela efekt
+**Mandela efekt**
 
 <!--more-->
 
 text text text text
 
-![thit is image](/image.jpg)
+<img class="special-img-class" src="/images.jpg" /> 
