@@ -6,7 +6,7 @@ menu:
 ---
 **Cíl webu**
 
-Tento projekt se zabývá fenoménem *mandela efekt*, což je fenomém, který popisuje situace, které si pamatujeme jinak, než se ve skutečnosti staly. Občas se stává, že naše pamět zklame, ale nebývá obvyklé, že by si některé události pamatovali odlišně velké skupiny lidí z různých koutů planety. Teorií, proč se to děje, je několik. Může se jednat o cestování v čase, změnu dimenze, mimozemšťany, nebo lidskou hloupost. 
+Tento projekt se zabývá fenoménem *mandela efekt*, což je fenomén, který popisuje situace, které si pamatujeme jinak, než se ve skutečnosti staly. Občas se stává, že naše pamět zklame, ale nebývá obvyklé, že by si některé události pamatovali odlišně velké skupiny lidí z různých koutů planety. Teorií, proč se to děje, je několik. Může se jednat o cestování v čase, změnu dimenze, mimozemšťany, nebo lidskou hloupost. 
 
 Tento efekt byl pojmenován podle prvního velkého zaznamenání. Mnoho lidí si pamatuje, že bývalý prezident Jihoafrické republiky N. Mandela zemřel v 80. letech ve vězení Pollsmoor. Což ale není pravda. Mandela zemřel až v roce 2013. V české literatuře o tomto efektu není mnoho zmínek, zdroje budou tedy pževážně elektronické - jedná se především o zážitky a konspirační teorie.
 
