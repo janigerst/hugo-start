@@ -60,5 +60,6 @@ nav .active {
 }
 
 body {
-    color: white;
+    background-color: black;
+    background-image: url(http://www.pbs.org/wgbh/nova/next/wp-content/uploads/2017/06/quantum-entanglement_2048x1152.jpg);
 }
