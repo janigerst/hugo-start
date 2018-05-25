@@ -12,7 +12,7 @@ Tento efekt byl pojmenován podle prvního velkého zaznamenání. Mnoho lidí s
 
 **Cílová skupina**
 
-Tento web slouží všem nadšencům neznáma a záhadna jako možnost více se seznámit s tímto fenoménem.
+*Tento web slouží všem nadšencům neznáma a záhadna jako možnost více se seznámit s tímto fenoménem.*
 
 **Zdroje**
 
